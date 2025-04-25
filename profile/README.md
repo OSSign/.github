@@ -7,5 +7,7 @@ Windows implementation of the USB-IP protocol, to allow you to connect USB devic
 
 Signed binaries (EV) and attestation signed drivers via Microsoft.
 
+For more information, see [our fork at github.com/ossign/vadimgrn--usbip-win2](https://github.com/OSSign/vadimgrn--usbip-win2/tree/ossign)
+
 ## Who are we?
 We are a group of people in Sweden passionate about open source. This project is currently maintained by [scheibling](https://github.com/scheibling), and backed by [Scheibling Consulting AB](https://scheibling.se), [Cloudyne Systems](https://cloudyne.io) and [Clysec](https://github.com/clysec).
