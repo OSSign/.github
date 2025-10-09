@@ -13,7 +13,7 @@ Signed binaries (EV) and attestation signed drivers via Microsoft.
 
 For more information, see [our fork at github.com/ossign/vadimgrn--usbip-win2](https://github.com/OSSign/vadimgrn--usbip-win2/tree/ossign)
 
-### [Beaver-Notes/Beaver-Notes]
+### [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Note/Beaver-Notes)
 <div align="center">
   <img src="https://raw.githubusercontent.com/Beaver-Notes/beaver-website/main/src/assets/logo.png" alt="Beaver Logo" width="100">
   <p><b>Build your knowledge one log at a time</b></p>
