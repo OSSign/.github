@@ -13,6 +13,25 @@ Signed binaries (EV) and attestation signed drivers via Microsoft.
 
 For more information, see [our fork at github.com/ossign/vadimgrn--usbip-win2](https://github.com/OSSign/vadimgrn--usbip-win2/tree/ossign)
 
+### [Beaver-Notes/Beaver-Notes]
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Beaver-Notes/beaver-website/main/src/assets/logo.png" alt="Beaver Logo" width="100">
+  <p><b>Build your knowledge one log at a time</b></p>
+</div>
+
+Beaver Notes is a **privacy-first, local-first note-taking app** for **macOS, Windows, and GNU/Linux**. With Beaver Notes, your notes are securely stored **on your device**, ensuring **complete privacy** and **control over your data**.
+
+Signed binaries and installer.
+
+
+
+### [shriprem/StayAwake](https://github.com/shriprem/StayAwake)
+StayAwake is a simple utility that enables you to maintain an Active status on Microsoft Teams (and perhaps other messaging applications such as Slack and Zoom). StayAwake also prevents screen saver activation, screen blanking, and Windows session lockouts.
+
+Signed binaries.
+
+
+
 ## Who are we?
 We are a group of people in Sweden passionate about open source. This project is currently maintained by [scheibling](https://github.com/scheibling), and backed by [Scheibling Consulting AB](https://scheibling.se), [Cloudyne Systems](https://cloudyne.io) and [Clysec](https://github.com/clysec).
 
